@@ -1,4 +1,4 @@
-# Next Modules for deno
+# Next Modules for Deno
 
 https://github.com/acornjs/acorn
 
