@@ -17,6 +17,17 @@ Esta lista tem como finalidade listar os modulos Deno do DenoBR
 
 ### 🔰 - Principal
 
+https://deno.land/x/mime ✔️
+
+https://deno.land/x/rxjs ✔️
+
+https://deno.land/x/deno_hidefile ✔️
+
+https://deno.land/x/deno_log ✔️
+
+https://deno.land/x/deno_windows ✔️
+
+
 ### 🔰 - CheerIO
 https://www.npmjs.com/package/boolbase ⭕
 
