@@ -9,7 +9,7 @@ https://www.npmjs.com/package/domelementtype OK
 
 https://www.npmjs.com/package/domhandler OK
 
-https://www.npmjs.com/package/entities
+https://www.npmjs.com/package/entities  OK
 
 https://www.npmjs.com/package/dom-serializer
 
