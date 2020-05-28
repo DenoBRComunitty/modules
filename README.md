@@ -46,39 +46,39 @@ https://deno.land/x/deno_log ✔️🔀
 
 https://deno.land/x/deno_windows ✔️🔀
 
-https://github.com/rafaelferres/deno-correiobr 🔄
+https://deno.land/x/deno_correiobr ✔️🔀
 
 https://github.com/rafaelferres/deno-windows-installer ✔️
 
 https://github.com/rafaelferres/dvm-windows - 🔄
 
-### 🔰 - CheerIO
-https://github.com/DenoBRComunitty/boolbase ✔️⭕
+### 🔰⏫ - CheerIO
+https://deno.land/x/boolbase ✔️🔀
 
-https://github.com/DenoBRComunitty/nth-check ✔️⭕
+https://deno.land/x/nth_check ✔️🔀
 
-https://github.com/DenoBRComunitty/domelementtype ✔️⭕
+https://deno.land/x/domelementtype ✔️🔀
 
-https://github.com/DenoBRComunitty/domhandler ✔️⭕
+https://deno.land/x/domhandler ✔️🔀
 
-https://github.com/DenoBRComunitty/entities  ✔️⭕
+https://deno.land/x/entities ✔️🔀
 
-https://github.com/DenoBRComunitty/dom-serializer ✔️⭕
+https://deno.land/x/domserializer ✔️🔀
 
-https://github.com/DenoBRComunitty/domutils ✔️
+https://github.com/DenoBRComunitty/domutils ✔️⭕
 
 https://www.npmjs.com/package/htmlparser2 🔁
 
 https://www.npmjs.com/package/parse5 ⛔
 
-https://www.npmjs.com/package/css-what ❌
+https://www.npmjs.com/package/css-what ⛔
 
-https://www.npmjs.com/package/css-select ❌
+https://www.npmjs.com/package/css-select ⛔
 
-https://www.npmjs.com/package/cheerio ❌
+https://www.npmjs.com/package/cheerio ❌⭕
 
 
-### 🔰 - Pug
+### 🔰⏬ - Pug
 https://github.com/acornjs/acorn ❌
 
 https://www.npmjs.com/package/object-assign ❌
