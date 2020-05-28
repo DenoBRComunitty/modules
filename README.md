@@ -5,7 +5,7 @@ https://www.npmjs.com/package/boolbase OK
 
 https://www.npmjs.com/package/nth-check OK
 
-https://www.npmjs.com/package/domelementtype
+https://www.npmjs.com/package/domelementtype OK
 
 https://www.npmjs.com/package/domhandler
 
