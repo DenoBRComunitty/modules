@@ -1,12 +1,18 @@
 # 🦕 Modulos do Deno desenvolvidos/migrados pelo DenoBR
 Esta lista tem como finalidade listar os modulos Deno do DenoBR
 
-## Indicações
+## 📛 Indicações
+
 🔰 - Categoria/Módulo principal
+
 ✔️ - Desenvolvido e mergido
+
 ⭕ - Já desenvolvido, porém esperando ser mergido
+
 🔄 - Em desenvolvimento
+
 ⛔ - Próximo(s) a ser(em) desenvolvido(s)
+
 ❌ - Não desenvolvido
 
 ### 🔰 - CheerIO
