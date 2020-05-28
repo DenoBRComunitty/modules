@@ -1,23 +1,32 @@
-# Next Modules for Deno | https://denobr.com
+# 🦕 Modulos do Deno desenvolvidos/migrados pelo DenoBR
+Esta lista tem como finalidade listar os modulos Deno do DenoBR
 
-## cheerio
-https://www.npmjs.com/package/boolbase ✔️
+## Indicações
+🔰 - Categoria/Módulo principal
+✔️ - Desenvolvido e mergido
+⭕ - Já desenvolvido, porém esperando ser mergido
+🔄 - Em desenvolvimento
+⛔ - Próximo(s) a ser(em) desenvolvido(s)
+❌ - Não desenvolvido
 
-https://www.npmjs.com/package/nth-check ⛔
+### 🔰 - CheerIO
+https://www.npmjs.com/package/boolbase ⭕
 
-https://www.npmjs.com/package/domelementtype ⛔
+https://www.npmjs.com/package/nth-check ⭕
 
-https://www.npmjs.com/package/domhandler ⛔
+https://www.npmjs.com/package/domelementtype ⭕
 
-https://www.npmjs.com/package/entities  ⛔
+https://www.npmjs.com/package/domhandler ⭕
 
-https://www.npmjs.com/package/dom-serializer ⛔
+https://www.npmjs.com/package/entities  ⭕
+
+https://www.npmjs.com/package/dom-serializer ⭕
 
 https://www.npmjs.com/package/domutils 🔄
 
-https://www.npmjs.com/package/htmlparser2 ❌
+https://www.npmjs.com/package/htmlparser2 ⛔
 
-https://www.npmjs.com/package/parse5 ❌
+https://www.npmjs.com/package/parse5 ⛔
 
 https://www.npmjs.com/package/css-what ❌
 
@@ -26,7 +35,7 @@ https://www.npmjs.com/package/css-select ❌
 https://www.npmjs.com/package/cheerio ❌
 
 
-## Pug
+### 🔰 - Pug
 https://github.com/acornjs/acorn ❌
 
 https://www.npmjs.com/package/object-assign ❌
