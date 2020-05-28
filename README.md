@@ -32,6 +32,7 @@ Esta lista tem como finalidade listar os modulos Deno do DenoBR
 
 *As indicações podem ser mescladas, exemplo: ✔️⭕ - Desenvolvido, porém esperando ser mergido;
 
+*✔️🔁 é interpretado como: Já foi desenvolvido e liberado, entretando novas versões estão sendo desenvolvidas, pórem não é possivel acessar as novas alterações
 
 
 ### 🔰 - Principal
@@ -50,7 +51,7 @@ https://deno.land/x/deno_correiobr ✔️🔀
 
 https://github.com/rafaelferres/deno-windows-installer ✔️
 
-https://github.com/rafaelferres/dvm-windows - 🔄
+https://github.com/rafaelferres/dvm-windows - ✔️🔁
 
 ### 🔰⏫ - CheerIO
 https://deno.land/x/boolbase ✔️🔀
