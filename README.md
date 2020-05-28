@@ -65,7 +65,7 @@ https://github.com/DenoBRComunitty/entities  ✔️⭕
 
 https://github.com/DenoBRComunitty/dom-serializer ✔️⭕
 
-https://www.npmjs.com/package/domutils ✔️
+https://github.com/DenoBRComunitty/domutils ✔️
 
 https://www.npmjs.com/package/htmlparser2 🔁
 
