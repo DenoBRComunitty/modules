@@ -53,7 +53,7 @@ https://github.com/rafaelferres/deno-windows-installer ✔️
 
 https://github.com/rafaelferres/dvm-windows - ✔️🔁
 
-### 🔰⏫ - CheerIO
+### 🔰⏫🔁 - CheerIO
 https://deno.land/x/boolbase ✔️🔀
 
 https://deno.land/x/nth_check ✔️🔀
@@ -76,7 +76,7 @@ https://www.npmjs.com/package/css-what ⛔
 
 https://www.npmjs.com/package/css-select ⛔
 
-https://www.npmjs.com/package/cheerio ❌⭕
+https://www.npmjs.com/package/cheerio ⛔⭕
 
 
 ### 🔰⏬ - Pug
