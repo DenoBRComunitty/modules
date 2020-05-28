@@ -28,6 +28,7 @@ Esta lista tem como finalidade listar os modulos Deno do DenoBR
 🛑 - Cancelado.
 
 *Os módulos que não possuem ⏫⏬ serão considerados como prioridáde média;
+
 *As indicações podem ser mescladas, exemplo: ✔️⭕ - Desenvolvido, porém esperando ser mergido;
 
 
