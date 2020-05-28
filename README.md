@@ -36,17 +36,21 @@ Esta lista tem como finalidade listar os modulos Deno do DenoBR
 
 ### 🔰 - Principal
 
-https://deno.land/x/mime ✔️
+https://deno.land/x/mime ✔️🔀
 
-https://deno.land/x/rxjs ✔️
+https://deno.land/x/rxjs ✔️🔀
 
-https://deno.land/x/deno_hidefile ✔️
+https://deno.land/x/deno_hidefile ✔️🔀
 
-https://deno.land/x/deno_log ✔️
+https://deno.land/x/deno_log ✔️🔀
 
-https://deno.land/x/deno_windows ✔️
+https://deno.land/x/deno_windows ✔️🔀
 
+https://github.com/rafaelferres/deno-correiobr 🔄
 
+https://github.com/rafaelferres/deno-windows-installer ✔️
+
+https://github.com/rafaelferres/dvm-windows - 🔄
 
 ### 🔰 - CheerIO
 https://www.npmjs.com/package/boolbase ✔️⭕
