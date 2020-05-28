@@ -53,17 +53,17 @@ https://github.com/rafaelferres/deno-windows-installer ✔️
 https://github.com/rafaelferres/dvm-windows - 🔄
 
 ### 🔰 - CheerIO
-https://www.npmjs.com/package/boolbase ✔️⭕
+https://github.com/DenoBRComunitty/boolbase ✔️⭕
 
-https://www.npmjs.com/package/nth-check ✔️⭕
+https://github.com/DenoBRComunitty/nth-check ✔️⭕
 
-https://www.npmjs.com/package/domelementtype ✔️⭕
+https://github.com/DenoBRComunitty/domelementtype ✔️⭕
 
-https://www.npmjs.com/package/domhandler ✔️⭕
+https://github.com/DenoBRComunitty/domhandler ✔️⭕
 
-https://www.npmjs.com/package/entities  ✔️⭕
+https://github.com/DenoBRComunitty/entities  ✔️⭕
 
-https://www.npmjs.com/package/dom-serializer ✔️⭕
+https://github.com/DenoBRComunitty/dom-serializer ✔️⭕
 
 https://www.npmjs.com/package/domutils 🔁
 
