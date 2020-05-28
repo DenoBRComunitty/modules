@@ -3,17 +3,33 @@ Esta lista tem como finalidade listar os modulos Deno do DenoBR
 
 ## 📛 Indicações
 
-🔰 - Categoria/Módulo principal
+🔰 - Categoria/Módulo principal;
 
-✔️ - Desenvolvido e mergido
+✔️ - Desenvolvido;
 
-⭕ - Já desenvolvido, porém esperando ser mergido
+🔀 - Mergido;
 
-🔄 - Em desenvolvimento
+⭕ - Esperando ser mergido;
 
-⛔ - Próximo(s) a ser(em) desenvolvido(s)
+🔄 - Em desenvolvimento contínuo/livre (Está em desenvolvimento livre);
 
-❌ - Não desenvolvido
+🔁 - Em desenvolvimento (Está em desenvolvimento, entretanto não é possivel acessar o repositório);
+
+⏫ - Prioridade;
+
+⏩ - Pulado;
+
+⏬ - Baixa prioridade
+
+⛔ - Próximo(s) a ser(em) desenvolvido(s);
+
+❌ - Não desenvolvido;
+
+🛑 - Cancelado.
+
+*Os módulos que não possuem ⏫⏬ serão considerados como prioridáde média;
+*As indicações podem ser mescladas, exemplo: ✔️⭕ - Desenvolvido, porém esperando ser mergido;
+
 
 ### 🔰 - Principal
 
@@ -28,20 +44,21 @@ https://deno.land/x/deno_log ✔️
 https://deno.land/x/deno_windows ✔️
 
 
+
 ### 🔰 - CheerIO
-https://www.npmjs.com/package/boolbase ⭕
+https://www.npmjs.com/package/boolbase ✔️⭕
 
-https://www.npmjs.com/package/nth-check ⭕
+https://www.npmjs.com/package/nth-check ✔️⭕
 
-https://www.npmjs.com/package/domelementtype ⭕
+https://www.npmjs.com/package/domelementtype ✔️⭕
 
-https://www.npmjs.com/package/domhandler ⭕
+https://www.npmjs.com/package/domhandler ✔️⭕
 
-https://www.npmjs.com/package/entities  ⭕
+https://www.npmjs.com/package/entities  ✔️⭕
 
-https://www.npmjs.com/package/dom-serializer ⭕
+https://www.npmjs.com/package/dom-serializer ✔️⭕
 
-https://www.npmjs.com/package/domutils 🔄
+https://www.npmjs.com/package/domutils 🔁
 
 https://www.npmjs.com/package/htmlparser2 ⛔
 
