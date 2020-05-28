@@ -1,6 +1,30 @@
 # Next Modules for Deno
 
 ## cheerio
+https://www.npmjs.com/package/boolbase
+
+https://www.npmjs.com/package/nth-check
+
+https://www.npmjs.com/package/domelementtype
+
+https://www.npmjs.com/package/domhandler
+
+https://www.npmjs.com/package/entities
+
+https://www.npmjs.com/package/dom-serializer
+
+https://www.npmjs.com/package/domutils
+
+https://www.npmjs.com/package/htmlparser2
+
+https://www.npmjs.com/package/parse5
+
+https://www.npmjs.com/package/css-what
+
+https://www.npmjs.com/package/css-select
+
+https://www.npmjs.com/package/cheerio
+
 
 ## Pug
 https://github.com/acornjs/acorn
