@@ -3,7 +3,7 @@
 ## cheerio
 https://www.npmjs.com/package/boolbase OK
 
-https://www.npmjs.com/package/nth-check
+https://www.npmjs.com/package/nth-check OK
 
 https://www.npmjs.com/package/domelementtype
 
